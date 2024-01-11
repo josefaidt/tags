@@ -1,0 +1,15 @@
+{
+  "name": "tags",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-amplify": "^6.0.11"
+  },
+  "devDependencies": {
+    "@aws-amplify/backend": "^0.10.0",
+    "@aws-amplify/backend-cli": "^0.9.5",
+    "aws-cdk": "^2.110.1",
+    "aws-cdk-lib": "^2.110.1",
+    "constructs": "^10.3.0",
+    "typescript": "^5.3.3"
+  }
+}
